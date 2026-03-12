@@ -1,0 +1,5 @@
+{
+  "name": "College Library Book Reservation System",
+  "description": "A student project for reserving library books using Next.js and Supabase.",
+  "requestFramePermissions": []
+}
